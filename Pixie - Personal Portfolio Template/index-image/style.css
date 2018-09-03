@@ -600,8 +600,8 @@ a{
      margin-bottom: 30px;
  }
  .single-work img {
-     -webkit-transform: scale(1.15);
-     transform: scale(1.15);
+     -webkit-transform: scale(1);
+     transform: scale(1);
      -webkit-transition: all 0.4s ease 0s;
      transition: all 0.4s ease 0s;
  }
