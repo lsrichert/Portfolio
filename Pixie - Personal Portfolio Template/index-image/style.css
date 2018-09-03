@@ -41,6 +41,7 @@ NOTE: This is main stylesheet of the template.
  img {
      max-width: 100%;
      height: auto;
+     
  }
 a{
     transition: 0.4s
@@ -528,6 +529,7 @@ a{
      box-shadow: 0px 0px 15px 0px rgba(0, 0, 0, 0.1);
      -webkit-transition: 0.4s;
      transition: 0.4s;
+     height: 400px;
  }
 .single-service::before {
 	position: absolute;
