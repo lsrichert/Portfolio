@@ -586,6 +586,7 @@ a{
 .work-area{
     
 }
+
  .work-inner .mix {
      display: none;
  }
@@ -607,6 +608,7 @@ a{
      position: relative;
      overflow: hidden;
      margin-bottom: 30px;
+     /* height: 200px; */
  }
  .single-work img {
      -webkit-transform: scale(1);
@@ -618,12 +620,12 @@ a{
      -webkit-transform: scale(1);
      transform: scale(1);
  }
- /*
-.row.no-gutter [class*="col-"]{
+ 
+/* .row.no-gutter [class*="col-"]{
     margin: 0;
     padding: 0;
-}
-*/
+} */
+
  .item-hover {
      padding: 30px;
      height: 100%;
