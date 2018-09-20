@@ -29,6 +29,6 @@
      color: #fff;
      border: 2px solid #44b272;
  }
- .testimonial-area .owl-dots div.active, .single-service::before, .single-service::after {
+ .technology-area .owl-dots div.active, .single-service::before, .single-service::after {
      background: #44b272;
  }

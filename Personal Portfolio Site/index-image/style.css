@@ -21,7 +21,7 @@ NOTE: This is main stylesheet of the template.
 6. SERVICES AREA
 7. WORK AREA
 8. STAT AREA
-9. TESTIMONIAL AREA 
+9. technology AREA 
 10. CONTACT INFO AREA
 11. FOOTER AREA
 
@@ -746,16 +746,16 @@ a{
  }
 
  /*================================================
-            9 TESTIMONIAL AREA 
+            9 technology AREA 
 ==================================================*/
- 
-  .testimonial-area {} .single-testimonial {
+
+  .technology-area {} .single-technology {
      position: relative;
      background-color: #fff;
      padding: 40px 20px 25px;
      border: 1px solid #ddd;
  }
-.testimonial-list.owl-carousel .owl-stage-outer {
+.technology-list.owl-carousel .owl-stage-outer {
 	padding-top: 20px;
 }
 
@@ -773,7 +773,7 @@ a{
 	transform: translateY(-50%);
     background: #222;
 }
-.testimonial-list.owl-carousel .owl-item.active .quote-mark{
+.technology-list.owl-carousel .owl-item.active .quote-mark{
     
 }
  .t-image {
@@ -809,11 +809,11 @@ a{
  .t-author {
      padding-left: 85px;
  }
- .testimonial-area .owl-dots {
+ .technology-area .owl-dots {
      margin-top: 35px;
      text-align: center;
  }
- .testimonial-area .owl-dots div {
+ .technology-area .owl-dots div {
      background: #222 none repeat scroll 0 0;
      display: inline-block;
      height: 5px;

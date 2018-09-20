@@ -137,9 +137,9 @@ NOTE: This is the custom jQuery file for the template
     
     
     /*===================================
-            owl carousel testimonial
+            owl carousel technology
      ====================================*/
-    $(".testimonial-list").owlCarousel({
+    $(".technology-list").owlCarousel({
         loop:true,
         margin:30,
         nav:false,

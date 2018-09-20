@@ -29,7 +29,7 @@
      color: #fff;
      border: 2px solid #F27849;
  }
- .testimonial-area .owl-dots div.active, .single-service::before, .single-service::after {
+ .technology-area .owl-dots div.active, .single-service::before, .single-service::after {
      background: #F27849;
  }
 
@@ -64,7 +64,7 @@
      color: #fff;
      border: 2px solid #F27849;
  }
- .color_1_theme .testimonial-area .owl-dots div.active, .color_1_theme .single-service::before, .color_1_theme .single-service::after {
+ .color_1_theme .technology-area .owl-dots div.active, .color_1_theme .single-service::before, .color_1_theme .single-service::after {
      background: #F27849;
  }
 
@@ -100,7 +100,7 @@
      color: #fff;
      border: 2px solid #2196F4;
  }
- .color_2_theme .testimonial-area .owl-dots div.active, .color_2_theme .single-service::before, .color_2_theme .single-service::after {
+ .color_2_theme .technology-area .owl-dots div.active, .color_2_theme .single-service::before, .color_2_theme .single-service::after {
      background: #2196F4;
  }
 
@@ -136,7 +136,7 @@
      color: #fff;
      border: 2px solid #ffc814;
  }
- .color_3_theme .testimonial-area .owl-dots div.active, .color_3_theme .single-service::before, .color_3_theme .single-service::after {
+ .color_3_theme .technology-area .owl-dots div.active, .color_3_theme .single-service::before, .color_3_theme .single-service::after {
      background: #ffc814;
  }
 
@@ -171,7 +171,7 @@
      color: #fff;
      border: 2px solid #44b272;
  }
- .color_4_theme .testimonial-area .owl-dots div.active, .color_4_theme .single-service::before, .color_4_theme .single-service::after {
+ .color_4_theme .technology-area .owl-dots div.active, .color_4_theme .single-service::before, .color_4_theme .single-service::after {
      background: #44b272;
  }
 
