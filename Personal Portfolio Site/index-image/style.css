@@ -82,6 +82,7 @@ a{
 
  
 
+
  /*================================================
              1 PRELOADER
 ==================================================*/
@@ -612,7 +613,7 @@ a{
      position: relative;
      overflow: hidden;
      margin-bottom: 30px;
-     /* height: 200px; */
+     height: 250px;
  }
  .single-work img {
      -webkit-transform: scale(1);
